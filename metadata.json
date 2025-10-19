@@ -1,0 +1,8 @@
+{
+  "name": "ShiftShare (Manager's Edition)",
+  "description": "Your intelligent shift planner. Manage your team, tasks, and generate optimized daily shift plans.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
